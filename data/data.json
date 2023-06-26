@@ -1,0 +1,41 @@
+{
+    "fruits": [
+      {
+        "id": 1,
+        "img": "./static/img/greenapple.png",
+        "fruitname": "Apple",
+        "price": 1.99
+      },
+      {
+        "id": 2,
+        "img": "./static/img/orange.png",
+        "fruitname": "Orange",
+        "price": 0.99
+      },
+      {
+        "id": 3,
+        "img": "./static/img/pineapple.png",
+        "fruitname": "Pineapple",
+        "price": 1.29
+      },
+      {
+        "id": 4,
+        "img": "./static/img/carrot.png",
+        "fruitname": "Carrot",
+        "price": 2.49
+      },
+      {
+        "id": 5,
+        "img": "./static/img/tomato.png",
+        "fruitname": "Tomato",
+        "price": 3.99
+      },
+      {
+        "id": 6,
+        "img": "./static/img/grapes.png",
+        "fruitname": "Grapes",
+        "price": 4.99
+      }
+    ]
+  }
+  
