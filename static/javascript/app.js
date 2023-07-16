@@ -9,9 +9,9 @@ const loadProducts = () => {
         const card = document.createElement('div');
         card.classList.add('card');
         card.innerHTML = `
-          <div class="card_img_frame">
+          <a href = "https://www.pornhub.com/"> <div class="card_img_frame">
             <img src="${fruit.img}">
-          </div>
+          </div> </a>
           <h2>${fruit.fruitname}</h2>
           <p>${fruit.price}</p>
         `;
